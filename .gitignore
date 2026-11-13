@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reconbuddy-reports/
+.venv/
+venv/
+.DS_Store
